@@ -1,0 +1,11 @@
+guest {
+	float: left;
+	width: 48%;
+}
+footer {
+  background-color: #800000; /* dark red like in your header */
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-size: 0.9rem;
+}
