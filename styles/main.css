@@ -80,7 +80,9 @@ nav ul li {
     color: white;
     font-weight: bold;
 }
-
+nav ul.submenu {
+  width: 100%
+}
 #nav_menu a.current {
     color: yellow;
 }
