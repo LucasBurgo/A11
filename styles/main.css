@@ -63,7 +63,9 @@
     position: relative;
     display: flex;
 }
-
+nav ul li {
+  width: 20%; 
+}
 #nav_menu li {
     flex: 1;
     position: relative;
