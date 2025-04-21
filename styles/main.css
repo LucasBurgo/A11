@@ -11,6 +11,9 @@
     font-size: 90%;
   }
 }
+#mobile_menu {
+  display: none;
+}
 @media screen and (max-width: 600px) {
   #nav_menu {
     display: none;
@@ -19,12 +22,10 @@
     display: block;
   }
   .slicknav_menu {
-    background-color: #800000 !important;
+    background-color: #800000 ;
   }
 }
-#mobile_menu {
-  display: none;
-}
+
 @media screen and (max-width: 768px) {
   aside h2 a {
     font-size: 85%;
